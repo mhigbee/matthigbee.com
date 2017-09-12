@@ -1,0 +1,23 @@
+baseURL = "http://www.matthigbee.com"
+languageCode = "en-us"
+title = "Matt Higbee - Developer, PM, Internet Junkie"
+theme = "hugo-theme-nix"
+[params]
+  GithubID = "mhigbee"
+  LinkedInID = "matthigbee"
+  GoogleplusID = ""
+  Name = "Matt Higbee"
+  HeaderUsername = "Matt Higbee"
+  About = "Experienced internet professional. I love JavaScript. I enjoy learning and new challenges. In my free time, play games, read, hike and spend time with my wife."
+  ProfilePicture = "/img/MattH1.png"
+[menu]
+[[menu.header]]
+  name = "posts"
+  weight = 0
+  url = "/posts"
+[[menu.header]]
+  name = "portfolio"
+  weight = 0
+  url = "/portfolio"
+
+
