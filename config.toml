@@ -1,4 +1,4 @@
-baseURL = "http://www.matthigbee.com"
+baseURL = "https://matt-higbee-website.firebaseapp.com/"
 languageCode = "en-us"
 title = "Matt Higbee - Developer, PM, Internet Junkie"
 theme = "hugo-theme-nix"
@@ -9,7 +9,7 @@ theme = "hugo-theme-nix"
   Name = "Matt Higbee"
   HeaderUsername = "Matt Higbee"
   About = "Experienced internet professional. I love JavaScript. I enjoy learning and new challenges. In my free time, play games, read, hike and spend time with my wife."
-  ProfilePicture = "/img/MattH1.png"
+  ProfilePicture = "/img/MattH1_small.png"
 [menu]
 [[menu.header]]
   name = "posts"
