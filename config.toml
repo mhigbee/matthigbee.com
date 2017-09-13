@@ -8,7 +8,7 @@ theme = "hugo-theme-nix"
   GoogleplusID = ""
   Name = "Matt Higbee"
   HeaderUsername = "Matt Higbee"
-  About = "Experienced internet professional. I love JavaScript. I enjoy learning and new challenges. In my free time, play games, read, hike and spend time with my wife."
+  About = "Experienced internet professional. I love JavaScript. I enjoy learning and new challenges. In my free time, I play games, read, hike and spend time with my wife."
   ProfilePicture = "/img/MattH1_small.png"
 [menu]
 [[menu.header]]
