@@ -1,4 +1,4 @@
-baseURL = "https://matt-higbee-website.firebaseapp.com/"
+baseURL = "https://matthigbee.com/"
 languageCode = "en-us"
 title = "Matt Higbee - Developer, PM, Internet Junkie"
 theme = "hugo-theme-nix"
